@@ -15,7 +15,7 @@ extern "C" {
 #define NEED_newSVpvn_flags
 #include "ppport.h"
 
-MODULE = Time::Strptime::XS    PACKAGE = Time::Strptime::XS
+MODULE = Time::Strptime::libc    PACKAGE = Time::Strptime::libc
 
 PROTOTYPES: DISABLE
 

@@ -23,8 +23,8 @@ my %args = (
         'Module::Build' => 0.38,
     },
 
-    name            => 'Time-Strptime-XS',
-    module_name     => 'Time::Strptime::XS',
+    name            => 'Time-Strptime-libc',
+    module_name     => 'Time::Strptime::libc',
     allow_pureperl => 0,
 
     script_files => [glob('script/*'), glob('bin/*')],

@@ -1,4 +1,4 @@
-package Time::Strptime::XS;
+package Time::Strptime::libc;
 use 5.008005;
 use strict;
 use warnings;
@@ -18,15 +18,15 @@ __END__
 
 =head1 NAME
 
-Time::Strptime::XS - It's new $module
+Time::Strptime::libc - It's new $module
 
 =head1 SYNOPSIS
 
-    use Time::Strptime::XS;
+    use Time::Strptime::libc;
 
 =head1 DESCRIPTION
 
-Time::Strptime::XS is ...
+Time::Strptime::libc is ...
 
 =head1 LICENSE
 

@@ -24,6 +24,6 @@ cover_db/
 
 MYMETA.*
 
-/Time-Strptime-XS-*
+/Time-Strptime-libc-*
 lib/Time/Strptime/XS.c
 !lib/Time/Strptime/ppport.h

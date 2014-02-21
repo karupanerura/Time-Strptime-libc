@@ -1,7 +1,7 @@
 use strict;
 use Test::More;
 
-use Time::Strptime::XS qw/strptime/;
+use Time::Strptime::libc qw/strptime/;
 use POSIX qw/tzset/;
 
 local $ENV{TZ} = 'GMT';

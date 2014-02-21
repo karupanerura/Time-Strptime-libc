@@ -1,14 +1,14 @@
 # NAME
 
-Time::Strptime::XS - It's new $module
+Time::Strptime::libc - It's new $module
 
 # SYNOPSIS
 
-    use Time::Strptime::XS;
+    use Time::Strptime::libc;
 
 # DESCRIPTION
 
-Time::Strptime::XS is ...
+Time::Strptime::libc is ...
 
 # LICENSE
 
