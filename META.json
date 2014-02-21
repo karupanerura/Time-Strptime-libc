@@ -4,7 +4,7 @@
       "karupanerura <karupa@cpan.org>"
    ],
    "dynamic_config" : 0,
-   "generated_by" : "Minilla/v0.11.0, CPAN::Meta::Converter version 2.132661",
+   "generated_by" : "Minilla/v0.11.0, CPAN::Meta::Converter version 2.132830",
    "license" : [
       "perl_5"
    ],
@@ -53,5 +53,16 @@
       }
    },
    "release_status" : "unstable",
+   "resources" : {
+      "bugtracker" : {
+         "web" : "https://github.com/karupanerura/Time-Strptime-libc/issues"
+      },
+      "homepage" : "https://github.com/karupanerura/Time-Strptime-libc",
+      "repository" : {
+         "type" : "git",
+         "url" : "git://github.com/karupanerura/Time-Strptime-libc.git",
+         "web" : "https://github.com/karupanerura/Time-Strptime-libc"
+      }
+   },
    "version" : "0.01"
 }
